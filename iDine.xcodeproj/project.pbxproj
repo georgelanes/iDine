@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5E34A8C824149F03005AC0ED /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E34A8C724149F03005AC0ED /* ItemDetail.swift */; };
 		5E34A8CA2414A57E005AC0ED /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E34A8C92414A57E005AC0ED /* OrderView.swift */; };
+		5E34A8CC2414AD6E005AC0ED /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E34A8CB2414AD6E005AC0ED /* AppView.swift */; };
 		5ECAE3CF2414898300C86849 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECAE3CE2414898300C86849 /* AppDelegate.swift */; };
 		5ECAE3D12414898300C86849 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECAE3D02414898300C86849 /* SceneDelegate.swift */; };
 		5ECAE3D32414898300C86849 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECAE3D22414898300C86849 /* ContentView.swift */; };
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		5E34A8C724149F03005AC0ED /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		5E34A8C92414A57E005AC0ED /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		5E34A8CB2414AD6E005AC0ED /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
 		5ECAE3CB2414898300C86849 /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ECAE3CE2414898300C86849 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5ECAE3D02414898300C86849 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 			children = (
 				5ECAE3D22414898300C86849 /* ContentView.swift */,
 				5E34A8C92414A57E005AC0ED /* OrderView.swift */,
+				5E34A8CB2414AD6E005AC0ED /* AppView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				5E34A8C824149F03005AC0ED /* ItemDetail.swift in Sources */,
 				5E34A8CA2414A57E005AC0ED /* OrderView.swift in Sources */,
 				5ECAE3D32414898300C86849 /* ContentView.swift in Sources */,
+				5E34A8CC2414AD6E005AC0ED /* AppView.swift in Sources */,
 				5ECAE3E524148E1000C86849 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
